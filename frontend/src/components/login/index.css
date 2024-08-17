@@ -1,0 +1,19 @@
+.myCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25vh auto;
+}
+
+.auth-card {
+    padding: 20px;
+    text-align: center;
+    max-width: 400px;
+}
+
+.button-login {
+    background: #085dfc !important;
+}
+input:focus {
+    border-bottom: 1px solid #085dfc !important;
+}
